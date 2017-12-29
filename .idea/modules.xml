@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libsvm.iml" filepath="$PROJECT_DIR$/.idea/modules/libsvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libsvm.iml" filepath="$PROJECT_DIR$/libsvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libsvm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/libsvm_main.iml" group="libsvm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libsvm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/libsvm_test.iml" group="libsvm" />
+    </modules>
+  </component>
+</project>
